@@ -58,3 +58,4 @@ gem 'devise', '~> 4.3'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
 gem 'name_view_tool', git: 'https://github.com/DiegoRamires/name_view_tool'
+gem 'petergate', '~> 1.8'
