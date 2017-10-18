@@ -127,10 +127,6 @@ body {
 }
 
 
-/*
- *  * Affix and center
- *   */
-
 @media (min-width: 40em) {
   /* Pull out the header and footer */
   .masthead {
@@ -157,7 +153,14 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 42rem;
+    width: 55rem;
   }
 }
 
+
+/*
+ * Custom Styles
+ */
+.card-block {
+  color: black;
+}
