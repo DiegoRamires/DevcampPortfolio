@@ -22,5 +22,6 @@ module DevcampPortifolio
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
     config.action_controller.permit_all_parameters = true
+    config.secret_key_base = ENV["SECRET_KEY_BASE"]
   end
 end
