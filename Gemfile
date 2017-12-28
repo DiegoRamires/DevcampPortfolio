@@ -65,7 +65,8 @@ gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 gem 'carrierwave', '~> 1.2', '>= 1.2.1'
 gem 'mini_magick', '~> 4.8'
 gem 'carrierwave-aws', '~> 1.3'
-gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
+gem 'dotenv-rails'
 gem 'cocoon', '~> 1.2', '>= 1.2.11'
+gem 'twitter', '~> 6.2'
 
 ruby "2.4.0"
