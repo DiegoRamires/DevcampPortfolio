@@ -54,9 +54,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.2', '>= 5.2.1'
 gem 'devise', '~> 4.3'
-
 gem 'bootstrap'
-
 gem 'name_view_tool', git: 'https://github.com/DiegoRamires/name_view_tool'
 gem 'petergate', '~> 1.8'
 gem 'font-awesome-rails'
@@ -68,5 +66,6 @@ gem 'carrierwave-aws', '~> 1.3'
 gem 'dotenv-rails'
 gem 'cocoon', '~> 1.2', '>= 1.2.11'
 gem 'twitter', '~> 6.2'
+gem 'redis', '~> 4.0', '>= 4.0.1'
 
 ruby "2.4.0"
