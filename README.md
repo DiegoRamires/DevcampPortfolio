@@ -1,24 +1,19 @@
-# README
+# My Online Home
+![ScreenShot](https://github.com/DiegoRamires/Portfolio/blob/master/public/screenshots/home.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Manage blog posts
+![ScreenShot](https://github.com/DiegoRamires/Portfolio/blob/master/public/screenshots/blog.png)
+- Language skills
+- Add comments realtime with action cable
+- Topic navigation
 
-Things you may want to cover:
+## Add portfolio images
+![ScreenShot](https://github.com/DiegoRamires/Portfolio/blob/master/public/screenshots/portfolio.png)
+- Language skills
+## Access tech news tweets
+- Show news for Ruby on Rails
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## About me
+![ScreenShot](https://github.com/DiegoRamires/Portfolio/blob/master/public/screenshots/aboutme.png)
+- Language skills
+- Job and education history
